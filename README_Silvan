@@ -1,0 +1,14 @@
+# BBC
+LCP: 0.98 1.23 0.93 
+CLS: 0 0 0
+INP: 24 24 32
+
+# coinmarketcap
+LCP: 1.10 1.08 0.92
+CLS: 0.06 0.01 0.01
+INP: 16 16 24
+
+# Liechti Engineering
+LCP: 1.21 0.94 0.96
+CLS: 0.13 0.13 0.13
+INP: 8 8 8
